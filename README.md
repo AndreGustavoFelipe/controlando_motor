@@ -1,4 +1,4 @@
-# controlando_motor
+Controlando Motor com Arduino UNO
 
 Tecnologias utilizadas:
 C++
